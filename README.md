@@ -1,4 +1,2 @@
-# Neopentyl glycol is an organic compound which is used in as a raw material in the synthesis of polymer type chemical compounds such as polyesters, as additives for specific purpose polymers such as plasticizer in the manufacture of PVC and other chemical products such as lubricants and paints.
-#The main ovjective of this project is to introduce the production of neopentyl glycol through ASPEN spftware and to simulate the whole production process.
-#Our model simulated yields a sufficiently pure neopentyl glycol 89.76% on mole basis and 90.04% on mass basis. the product flow rate is low as compared to the feed flow rate but the loss of material is identifies to happen at the distillation stage and the stream RECYCLE can be recycled to mix with the initial feed for reducing loss of material.
-#Project report and Poster are as PDF.
+Production of Neopentyl Glycol. 
+Read description. 
